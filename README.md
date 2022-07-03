@@ -19,7 +19,7 @@
 ## Installation
 
 **For Windows:**
-- Download the [windows archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/windows), unzip it and run **CH340SER.EXE** file.
+- Download the [Windows archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/windows), unzip it and run **CH340SER.EXE** file.
 
 **For Linux:**
 - Download the [Linux archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/linux), unzip it and run **Makefile** 
