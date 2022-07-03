@@ -19,13 +19,13 @@
 ## Installation
 
 **For Windows:**
-- Download the [windows archive](), unzip it and run **CH340SER.EXE** file.
+- Download the [windows archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/windows), unzip it and run **CH340SER.EXE** file.
 
 **For Linux:**
-- Download the [Linux archive](), unzip it and run **Makefile** 
+- Download the [Linux archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/linux), unzip it and run **Makefile** 
 
 **For MacOS:**
-- Download the [Mac archive](), unzip it and run **CH34x_Install_V1.5.pkg** file following the instructions written in **ReadMe.pdf**
+- Download the [Mac archive](https://github.com/climateguard/CG_Programmer/tree/main/drivers/mac), unzip it and run **CH34x_Install_V1.5.pkg** file following the instructions written in **ReadMe.pdf**
 
 
 ## [](https://github.com/climateguard/RadSens#instructions)Instructions
